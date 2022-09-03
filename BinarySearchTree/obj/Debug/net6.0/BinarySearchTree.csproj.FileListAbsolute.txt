@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\bin\Debug\net6.0\BinarySearchTree.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\refint\BinarySearchTree.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\BinarySearchTree.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\BST\BinarySearchTree\BinarySearchTree\obj\Debug\net6.0\ref\BinarySearchTree.dll
