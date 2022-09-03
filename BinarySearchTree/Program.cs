@@ -11,6 +11,7 @@
             Console.WriteLine("Display using inorder traversal:");
             Bst.Display();
             Console.WriteLine(" ");
+            Bst.SizeOfTree();
         }
     }
 }

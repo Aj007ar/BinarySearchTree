@@ -10,6 +10,7 @@ namespace BinarySearchTree
     {
         public T data;
         public BSTOperations<T> left = null, right = null;
+        int count = 0;
         public BSTOperations(T data)
         {
             this.data = data;
@@ -23,10 +24,12 @@ namespace BinarySearchTree
             {
                 if (this.left == null)
                 {
+                    count++;
                     this.left = new BSTOperations<T>(data);
                 }
                 else
                 {
+                    count++;
                     this.left.Insert(data);
                 }
             }
@@ -34,14 +37,21 @@ namespace BinarySearchTree
             {
                 if (this.right == null)
                 {
+                    count++;
                     this.right = new BSTOperations<T>(data);
                 }
                 else
                 {
+                    count++;
                     this.right.Insert(data);
                 }
 
             }
+        }
+        public void SizeOfTree()
+        {
+            Console.WriteLine(" ");
+            Console.WriteLine("The Size of BST is {0}", (count + 1));
         }
         public void Display()
         {
