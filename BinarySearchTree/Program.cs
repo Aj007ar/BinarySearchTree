@@ -12,6 +12,12 @@
             Bst.Display();
             Console.WriteLine(" ");
             Bst.SizeOfTree();
+            bool result = Bst.Search(70, Bst);
+            if (!result)
+            {
+                Console.WriteLine("Not Found");
+            }
+            Console.WriteLine(" ");
         }
     }
 }

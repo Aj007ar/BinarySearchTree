@@ -11,6 +11,7 @@ namespace BinarySearchTree
         public T data;
         public BSTOperations<T> left = null, right = null;
         int count = 0;
+        bool result = false;
         public BSTOperations(T data)
         {
             this.data = data;
@@ -52,6 +53,28 @@ namespace BinarySearchTree
         {
             Console.WriteLine(" ");
             Console.WriteLine("The Size of BST is {0}", (count + 1));
+        }
+        public bool Search(T key, BSTOperations<T> node)
+        {
+            if (node == null)
+            {
+                return false;
+            }
+            if (node.data.Equals(key))
+            {
+                Console.WriteLine("Found! " + node.data);
+                result = true;
+            }
+            if (key.CompareTo(node.data) < 0)
+            {
+                Search(key, node.left);
+            }
+            if (key.CompareTo(node.data) > 0)
+            {
+                Search(key, node.right);
+            }
+
+            return result;
         }
         public void Display()
         {
